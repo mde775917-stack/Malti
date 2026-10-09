@@ -1,0 +1,6 @@
+{
+  "name": "Unlimited Virtual Mobile Browser",
+  "description": "A modern, mobile-first web browser with genuine server-backed multi-profile cookie and storage isolation, advanced tab management, private browsing, reader mode, and native Android WebView architecture blueprints.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
